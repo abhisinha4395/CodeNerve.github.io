@@ -7,12 +7,12 @@ Hey There! I am Abhijeet Sinha.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>A
 <p>I graduated in 2017 with a Bachelor's degree in Computer Science and Engineering from Sikkim Manipal Institute of Technology, Sikkim, India (SMIT).</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I have been a Python Developer since then. I have worked on multiple projects right from the designing, execution and to the maintainence phase. In the last 4 years, I have picked up many skills in Backend Development, Databases, ML, DevOps and CI/CD, primarily being Python and Linux. </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>I have worked at a startup and currently I'm working for a MNC. One thing you may notice about me is that I'm a DIY kind of guy. I like to go into the nitty gritty of things rather than using a software to make my life easier.<br><br><br></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can visit my other profiles, here:
+<p> You can visit my other profiles, here: </p>
 <ol>
     <li><a href="https://www.linkedin.com/in/abhijeet-sinha-883705127/">LinkedIn</a></li>
     <li><a href="https://github.com/abhisinha4395">Github</a></li>
- </ol>
- </p>
+</ol>
+
 
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="abhisinha4395@gmail.com">abhisinha4395@gmail.com</a>.
 
