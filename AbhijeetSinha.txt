@@ -2,7 +2,7 @@
 <span id="a">abhijeet@sinha</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->AbhijeetSinha.txt<br/><br/>
 My favorite code quote, "<span id="k">The best thing about a boolean is even if you are wrong, you are only off by a bit</span>". <!-- sjkfhskjf -->
 
-Hey There! I am Abhijeet Sinha.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>As a coder this where I thrive. So, it felt befitting to have a portfolio in my natural habitat.</p>
+Hey There! I am Abhijeet Sinha.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>As a coder this is where I thrive. So, it felt befitting to have a portfolio in my natural habitat.</p>
 <p> I love to code, play video games, and go on road trips.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>I graduated in 2017 with a Bachelor's degree in Computer Science and Engineering from Sikkim Manipal Institute of Technology, Sikkim, India (SMIT).</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> I have been a Python Developer since then. I have worked on multiple projects right from the designing, execution and to the maintainence phase. In the last 4 years, I have picked up many skills in Backend Development, Databases, ML, DevOps and CI/CD, primarily being Python and Linux. </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
