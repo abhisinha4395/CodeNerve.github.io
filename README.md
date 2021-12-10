@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# Abhijeet Sinha
+Terminal based portfolio website for Abhijeet Sinha
